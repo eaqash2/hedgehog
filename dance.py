@@ -1,0 +1,1 @@
+print('here dances the pink goose')
